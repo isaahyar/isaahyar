@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isaahyar
-- 👀 I’m interested in machine learning, computer engineering, & technology in general.
+- 👀 I’m interested in machine learning, computer engineering, & software engineering in general.
 - 🌱 I’m currently learning computer science in game technology.
 - 📫 Reach me at mohamadisa.ahyar@gmail.com
 
