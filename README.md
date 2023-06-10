@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @isaahyar
 - 👀 I’m interested in machine learning, computer engineering, & software engineering in general.
-- 🌱 I’m currently learning computer science in game technology.
+- 🌱 I graduated with a Bachelor of Information Technology (Game Technology).
+- 💻 I'm currently learning full-stack web development.
 - 📫 Reach me at mohamadisa.ahyar@gmail.com
 
 <!---
