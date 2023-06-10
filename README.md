@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isaahyar
+- 👋 Hi, I’m Isa
 - 👀 I’m interested in machine learning, computer engineering, & software engineering in general.
 - 🎓 I graduated with a Bachelor of Information Technology (Game Technology).
 - 💻 I'm currently learning full-stack web development.
